@@ -8,7 +8,7 @@ def search_element(my_list, target_element):
     return -1
 
 my_list = [1, 3, 5, 7, 9]
-target_element = 10
+target_element = 11
 result = search_element(my_list, target_element)
 
 print(f"The element {target_element} is found at index {result}.")
